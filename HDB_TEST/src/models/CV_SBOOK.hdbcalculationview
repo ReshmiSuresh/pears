@@ -37,12 +37,7 @@
       <keyMapping columnObjectName="Projection_1" columnName="CARRID"/>
     </attribute></attributes>
   <calculatedAttributes/>
-  <baseMeasures>
-    <measure id="LOCCURAM" order="2" aggregationType="sum" measureType="simple">
-      <descriptions defaultDescription="LOCCURAM"/>
-      <measureMapping columnObjectName="Projection_1" columnName="LOCCURAM"/>
-    </measure>
-  </baseMeasures>
+  <baseMeasures/>
   <calculatedMeasures/>
   <restrictedMeasures/>
   <localDimensions/>
