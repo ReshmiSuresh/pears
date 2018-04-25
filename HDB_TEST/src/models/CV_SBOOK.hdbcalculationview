@@ -35,15 +35,10 @@
     <attribute id="CARRID" order="1" displayAttribute="false" attributeHierarchyActive="false">
       <descriptions defaultDescription="CARRID"/>
       <keyMapping columnObjectName="Projection_1" columnName="CARRID"/>
-    </attribute>
-    <attribute id="CONNID" order="2" displayAttribute="false" attributeHierarchyActive="false">
-      <descriptions defaultDescription="CONNID"/>
-      <keyMapping columnObjectName="Projection_1" columnName="CONNID"/>
-    </attribute>
-  </attributes>
+    </attribute></attributes>
   <calculatedAttributes/>
   <baseMeasures>
-    <measure id="LOCCURAM" order="3" aggregationType="sum" measureType="simple">
+    <measure id="LOCCURAM" order="2" aggregationType="sum" measureType="simple">
       <descriptions defaultDescription="LOCCURAM"/>
       <measureMapping columnObjectName="Projection_1" columnName="LOCCURAM"/>
     </measure>
